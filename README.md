@@ -1,4 +1,4 @@
-# proto-laminar-hmr
+# this is not a template or anything useful!
 
 first terminal
 ```sh
